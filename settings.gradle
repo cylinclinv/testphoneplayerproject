@@ -1,0 +1,4 @@
+rootProject.name='mobilePhoneProject'
+include ':app', ':xutils'
+include ':startallplayer'
+include ':speechdemo'
